@@ -99,11 +99,6 @@
         <a href="https://mixus.pro/productos/pos-system">Pos-System</a> //
       </samp>
   </p>
-  <p align="center">
-      <samp>
-        RESPUESTA &lt; 24 HS · CONSULTA SIN CARGO · LUN–SÁB 9:00–19:00 ART
-      </samp>
-  </p>
 </div>
 <br>
 
