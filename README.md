@@ -1,58 +1,110 @@
-<a href="https://mixus.pro">
-  <img src="assets/banner.svg" alt="MIXUS — Estudio de desarrollo de software" width="100%">
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:140A08,50:FF4D3D,100:140A08&section=header"/>
 
-<p align="center">
-  <a href="https://mixus.pro"><img src="https://img.shields.io/badge/WEB-mixus.pro-FF4D3D?style=flat-square&labelColor=1D100C" alt="mixus.pro"></a>
-  <a href="mailto:mixus.pro.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-mixus.pro.dev%40gmail.com-FF4D3D?style=flat-square&labelColor=1D100C" alt="Email"></a>
-  <a href="https://wa.me/5491141499462"><img src="https://img.shields.io/badge/WHATSAPP-mensaje%20directo-FF4D3D?style=flat-square&labelColor=1D100C&logo=whatsapp&logoColor=FF4D3D" alt="WhatsApp"></a>
-</p>
+<br>
 
-## `// Quién soy`
+<div align="center">
+  <img align="center" height="150" src="assets/nucleo.svg" />
+</div>
 
-Soy **Elías**, técnico informático, desarrollador y QA tester. **MIXUS** es mi estudio de
-software: IA, automatización, aplicaciones y soluciones digitales a medida, con ingeniería
-y diseño cuidados hasta el último detalle.
+<br>
 
-- ✓ **Calidad testeada** — cada entrega pasa por QA formal antes de llegar a tus manos.
-- ✓ **Código propio** — nada de plantillas recicladas; cada proyecto se construye a medida.
-- ✓ **Trato directo** — hablas con quien desarrolla, sin intermediarios.
-- ✓ **Entrega documentada** — código, accesos y documentación: todo queda en tus manos.
+<div align="center">
 
-## `// Productos`
+  <b>`// S O F T W A R E · Q A · I A`</b>
+  <samp>
+      <br>
+      ¡Hola! Soy <b>Elías</b> y este es mi estudio: <b>MIXUS</b>
+  </samp>
+</div>
 
-| Producto | Descripción | |
-|---|---|---|
-| **EcoRutine** | Finanzas personales 100 % offline para Android | [`VER FICHA →`](https://mixus.pro/productos/ecorutine) |
-| **Kyron** | Asistente de IA de escritorio con HUD futurista | [`VER FICHA →`](https://mixus.pro/productos/kyron) |
-| **Diagramix** | Editor de diagramas profesional en el navegador | [`VER FICHA →`](https://mixus.pro/productos/diagramix) |
-| **Pos-System** | Punto de venta para comercios: caja, stock y reportes | [`VER FICHA →`](https://mixus.pro/productos/pos-system) |
+<div align="center" width="100%">
 
-> Demos interactivas y capturas reales en [mixus.pro](https://mixus.pro) · Los repositorios son privados: si quieres ver código o una demo en vivo, [escríbeme](https://mixus.pro/contacto).
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF4D3D&width=900&size=22&center=true&vCenter=true&lines=Estudio+de+desarrollo+de+software;IA%2C+automatizaci%C3%B3n+y+aplicaciones+a+medida;QA+formal+en+cada+entrega;Respuesta+en+menos+de+24+hs+%C2%B7+consulta+sin+cargo" alt="Typing SVG"/>
+</div>
 
-## `// Tecnologías`
+<br>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-1D100C?style=flat-square&logo=python&logoColor=FF4D3D" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-1D100C?style=flat-square&logo=javascript&logoColor=FF4D3D" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-1D100C?style=flat-square&logo=react&logoColor=FF4D3D" alt="React">
-  <img src="https://img.shields.io/badge/Kotlin-1D100C?style=flat-square&logo=kotlin&logoColor=FF4D3D" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Java-1D100C?style=flat-square&logo=openjdk&logoColor=FF4D3D" alt="Java">
-  <img src="https://img.shields.io/badge/Godot-1D100C?style=flat-square&logo=godotengine&logoColor=FF4D3D" alt="Godot">
-  <img src="https://img.shields.io/badge/Electron-1D100C?style=flat-square&logo=electron&logoColor=FF4D3D" alt="Electron">
-  <img src="https://img.shields.io/badge/Tailwind-1D100C?style=flat-square&logo=tailwindcss&logoColor=FF4D3D" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Playwright-1D100C?style=flat-square&logo=playwright&logoColor=FF4D3D" alt="Playwright">
-  <img src="https://img.shields.io/badge/SQL-1D100C?style=flat-square&logo=sqlite&logoColor=FF4D3D" alt="SQL">
-  <img src="https://img.shields.io/badge/Ollama-1D100C?style=flat-square&logo=ollama&logoColor=FF4D3D" alt="Ollama (IA local)">
-</p>
+<div align="center">
+  <a href="https://mixus.pro"><img src="https://img.shields.io/badge/%2F%2F_mixus.pro-1D100C" /></a>
+</div>
 
-**QA y automatización:** diseño de casos de prueba, ejecución y reporte, suites automatizadas
-sobre aplicaciones reales con Playwright.
+<br>
+<br>
 
-## `// Contacto`
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Electron.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Godot-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 
-<p>
-  <a href="https://mixus.pro/contacto"><img src="https://img.shields.io/badge/FORMULARIO-mixus.pro%2Fcontacto-FF4D3D?style=flat-square&labelColor=1D100C" alt="Formulario de contacto"></a>
-</p>
+</div>
 
-`RESPUESTA < 24 HS · CONSULTA SIN CARGO · LUN–SÁB 9:00–19:00 ART`
+<br>
+<br>
+
+<details align="center">
+  <summary>
+      <samp>
+        <b>Más info</b>
+      </samp>
+  </summary>
+
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contacto:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-FF4D3D?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mixus.pro.dev@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-1D100C?style=for-the-badge&logo=whatsapp&logoColor=FF4D3D)](https://wa.me/5491141499462)
+  [![Web](https://img.shields.io/badge/mixus.pro-FF4D3D?style=for-the-badge)](https://mixus.pro/contacto)
+
+</div>
+
+<div align="center">
+  <p align="center">
+      <samp>
+        // <a href="https://mixus.pro/productos/ecorutine">EcoRutine</a> ⊹
+        <a href="https://mixus.pro/productos/kyron">Kyron</a> ⊹
+        <a href="https://mixus.pro/productos/diagramix">Diagramix</a> ⊹
+        <a href="https://mixus.pro/productos/pos-system">Pos-System</a> //
+      </samp>
+  </p>
+  <p align="center">
+      <samp>
+        RESPUESTA &lt; 24 HS · CONSULTA SIN CARGO · LUN–SÁB 9:00–19:00 ART
+      </samp>
+  </p>
+</div>
+<br>
+
+</details>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Mixus16&style=flat-square&color=ff4d3d" /></p>
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0:140A08,50:FF4D3D,100:140A08&section=footer"/>

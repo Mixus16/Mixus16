@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300" role="img" aria-label="Núcleo MIXUS">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF4D3D" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#FF4D3D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g transform="translate(150,150)">
+    <circle r="140" fill="url(#halo)"/>
+
+    <!-- Partículas de la esfera -->
+    <g fill="#FF4D3D">
+      <g fill-opacity="0.9">
+        <circle cx="0" cy="-110" r="2.6"/><circle cx="64" cy="-89" r="2.6"/><circle cx="104" cy="-34" r="2.6"/>
+        <circle cx="104" cy="34" r="2.6"/><circle cx="64" cy="89" r="2.6"/><circle cx="0" cy="110" r="2.6"/>
+        <circle cx="-64" cy="89" r="2.6"/><circle cx="-104" cy="34" r="2.6"/><circle cx="-104" cy="-34" r="2.6"/>
+        <circle cx="-64" cy="-89" r="2.6"/>
+      </g>
+      <g fill-opacity="0.55">
+        <circle cx="0" cy="-75" r="2.1"/><circle cx="53" cy="-53" r="2.1"/><circle cx="75" cy="0" r="2.1"/>
+        <circle cx="53" cy="53" r="2.1"/><circle cx="0" cy="75" r="2.1"/><circle cx="-53" cy="53" r="2.1"/>
+        <circle cx="-75" cy="0" r="2.1"/><circle cx="-53" cy="-53" r="2.1"/>
+      </g>
+      <g fill-opacity="0.35">
+        <circle cx="0" cy="-40" r="1.7"/><circle cx="35" cy="-20" r="1.7"/><circle cx="35" cy="20" r="1.7"/>
+        <circle cx="0" cy="40" r="1.7"/><circle cx="-35" cy="20" r="1.7"/><circle cx="-35" cy="-20" r="1.7"/>
+      </g>
+    </g>
+
+    <!-- Órbitas -->
+    <ellipse rx="136" ry="40" fill="none" stroke="#FF4D3D" stroke-opacity="0.4" stroke-width="1.2">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse rx="136" ry="40" transform="rotate(60)" fill="none" stroke="#FF4D3D" stroke-opacity="0.25" stroke-width="1"/>
+    <ellipse rx="136" ry="40" transform="rotate(-60)" fill="none" stroke="#FF4D3D" stroke-opacity="0.25" stroke-width="1"/>
+
+    <!-- Núcleo -->
+    <circle r="8" fill="#FF4D3D" filter="url(#glow)">
+      <animate attributeName="fill-opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
