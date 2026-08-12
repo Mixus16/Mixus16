@@ -10,10 +10,10 @@
 
 <div align="center">
 
-  <b>`// S O F T W A R E · Q A · I A`</b>
+  <b>`//Software · Apps · Webs`</b>
   <samp>
       <br>
-      ¡Hola! Soy <b>Elías</b> y este es mi estudio: <b>MIXUS</b>
+      ¡Hola! Este es <b>MIXUS</b>, mi estudio de software
   </samp>
 </div>
 
@@ -50,6 +50,18 @@
 <br>
 <br>
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mixus16&show_icons=true&hide_border=true&bg_color=140A08&title_color=FF4D3D&icon_color=FF4D3D&text_color=F5EFED&ring_color=FF4D3D&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mixus16&layout=compact&hide_border=true&bg_color=140A08&title_color=FF4D3D&text_color=F5EFED&locale=es" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mixus16&hide_border=true&background=140A08&ring=FF4D3D&fire=FF4D3D&currStreakLabel=FF4D3D&currStreakNum=F5EFED&sideNums=F5EFED&sideLabels=B8A49E&dates=8A6F68&locale=es" />
+</div>
+
+<br>
+<br>
+
 <details align="center">
   <summary>
       <samp>
@@ -73,8 +85,8 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-FF4D3D?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mixus.pro.dev@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-1D100C?style=for-the-badge&logo=whatsapp&logoColor=FF4D3D)](https://wa.me/5491141499462)
-  [![Web](https://img.shields.io/badge/mixus.pro-FF4D3D?style=for-the-badge)](https://mixus.pro/contacto)
+  [![Formulario](https://img.shields.io/badge/Formulario-1D100C?style=for-the-badge&logo=googlechrome&logoColor=FF4D3D)](https://mixus.pro/contacto)
+  [![Web](https://img.shields.io/badge/mixus.pro-FF4D3D?style=for-the-badge)](https://mixus.pro)
 
 </div>
 
