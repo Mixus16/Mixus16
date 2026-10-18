@@ -13,7 +13,7 @@
   <b>`//Software · Apps · Webs`</b>
   <samp>
       <br>
-      ¡Hola! Este es <b>MIXUS</b>, mi estudio de software
+      ¡Hola! soy <b>MIXUS</b>, Este es mi estudio de software
   </samp>
 </div>
 
@@ -107,10 +107,6 @@
 ##
 
 <br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Mixus16&style=flat-square&color=ff4d3d" /></p>
-</div>
 
 <br>
 
