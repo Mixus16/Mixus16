@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="44" viewBox="0 0 640 44" role="img" aria-label="Estudio de desarrollo de software: IA, automatización y aplicaciones a medida, con QA formal en cada entrega">
+  <g font-family="ui-monospace, 'Cascadia Code', 'Fira Code', Consolas, Menlo, monospace" font-size="18" text-anchor="middle" fill="#FF4D3D">
+    <text x="320" y="28" opacity="0">Estudio de desarrollo de software
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.21;0.24;1" dur="20s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="320" y="28" opacity="0">IA, automatización y aplicaciones a medida
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.21;0.24;1" dur="20s" begin="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="320" y="28" opacity="0">QA formal en cada entrega
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.21;0.24;1" dur="20s" begin="10s" repeatCount="indefinite"/>
+    </text>
+    <text x="320" y="28" opacity="0">Respuesta en menos de 24 hs ⊹ consulta sin cargo
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.21;0.24;1" dur="20s" begin="15s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

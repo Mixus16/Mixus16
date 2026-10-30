@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="56" viewBox="0 0 800 56" role="img" aria-label="">
+  <defs>
+    <linearGradient id="linea" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF4D3D" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FF4D3D" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FF4D3D" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF4D3D" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#FF4D3D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="40" y="27.4" width="720" height="1.2" fill="url(#linea)"/>
+
+  <circle cx="400" cy="28" r="16" fill="url(#halo)"/>
+  <circle cx="400" cy="28" r="3.2" fill="#FF4D3D"/>
+
+  <g fill="#FF4D3D">
+    <circle cx="180" cy="28" r="2" fill-opacity="0.35"/>
+    <circle cx="265" cy="22" r="1.6" fill-opacity="0.3"/>
+    <circle cx="330" cy="33" r="1.8" fill-opacity="0.45"/>
+    <circle cx="470" cy="23" r="1.8" fill-opacity="0.45"/>
+    <circle cx="535" cy="34" r="1.6" fill-opacity="0.3"/>
+    <circle cx="620" cy="28" r="2" fill-opacity="0.35"/>
+  </g>
+</svg>
