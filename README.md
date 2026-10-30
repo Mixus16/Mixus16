@@ -56,11 +56,6 @@
 <br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mixus16&show_icons=true&hide_border=true&bg_color=140A08&title_color=FF4D3D&icon_color=FF4D3D&text_color=F5EFED&ring_color=FF4D3D&locale=es" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mixus16&layout=compact&hide_border=true&bg_color=140A08&title_color=FF4D3D&text_color=F5EFED&locale=es" alt="Lenguajes más usados" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Mixus16&hide_border=true&background=140A08&ring=FF4D3D&fire=FF4D3D&currStreakLabel=FF4D3D&currStreakNum=F5EFED&sideNums=F5EFED&sideLabels=B8A49E&dates=8A6F68&locale=es" alt="Racha de contribuciones" />
 </div>
 
